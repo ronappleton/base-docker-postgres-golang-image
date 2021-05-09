@@ -1,0 +1,9 @@
+.idea
+
+# Will need to delete for storing project in git
+.docker/.postgres/*
+!.docker/.postgres/.gitkeep
+
+# Will need to delete for storing project in git
+src/*
+!src/.gitkeep
